@@ -1,5 +1,5 @@
 {
-  "name": "exercise_01",
+  "name": "src",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,4 +10,3 @@
   "author": "",
   "license": "ISC"
 }
- 

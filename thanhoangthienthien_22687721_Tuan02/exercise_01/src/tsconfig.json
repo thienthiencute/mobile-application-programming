@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",                // hoặc ES2015, ES2016, ES2018... miễn >= ES2015
+    "lib": ["ES2017", "DOM"],          // thêm để có Promise, async/await
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
